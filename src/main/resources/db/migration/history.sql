@@ -1,0 +1,1 @@
+drop tables classe_ciclo, ciclo_grau, schema_version, ciclo, classe, aluno, grau_academico;
